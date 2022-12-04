@@ -1,0 +1,15 @@
+{
+    "name": "vera/qwe",
+    "autoload": {
+        "psr-4": {
+            "Vera\\Qwe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "slavina036",
+            "email": "slavina036@mail.ru"
+        }
+    ],
+    "require": {}
+}
