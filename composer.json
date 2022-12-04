@@ -2,7 +2,7 @@
     "name": "vera/qwe",
     "autoload": {
         "psr-4": {
-            "Vera\\Qwe\\": "src/"
+            "Vera\\": "src/lib"
         }
     },
     "authors": [

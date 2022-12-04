@@ -1,9 +1,9 @@
 <?php
 
-namespace src\lib;
+namespace Vera;
 
-class A {
-    public function getValue() {
+class ClassA {
+    public static function getValue() {
         echo ("Privet mir");
     }
 }
